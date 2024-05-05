@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cstsai1973
+- 👋 Hi, I’m Karl
 - 👀 I’m interested in drinking coffee/hanging around
 - 🌱 I’m currently learning GCP/AI
 - 💞️ I’m looking to collaborate on my Company's Project
